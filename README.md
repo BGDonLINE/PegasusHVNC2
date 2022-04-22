@@ -1,5 +1,8 @@
 # PegasusHVNC2
-You must've tried hard? xD
+
+![Screenshot_1](https://user-images.githubusercontent.com/1867768/164581897-d8b3750c-90e5-49b2-9ea5-35bd7f3d9f98.png)
+[Except ones compiled from full source ;)]
+https://streamable.com/ghpv5y
 
 
 ![badpony](https://user-images.githubusercontent.com/1867768/164579605-c4a11e62-87d5-48eb-bd95-f2dd976ac840.png)
