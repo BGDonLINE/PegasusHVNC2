@@ -1,5 +1,5 @@
 # PegasusHVNC2
-▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
+▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
 
 I would kindly ask you ***not to bother me*** with questions like it won't compile help
 or if you get that obviuos error like damn resource is missing heeeeelp - simply ***I don't care(especially for statements I can't wait, I want and similar. Feel free to purchase garbage mentioned above or reverse yourself).***
@@ -7,7 +7,7 @@ or if you get that obviuos error like damn resource is missing heeeeelp - simply
 Anyways if one decide to msg me with similar bs, please before you do download [ILSpy](https://github.com/icsharpcode/ILSpy/).
 IF one manage to compile it without issues feel free to contact me if not go back to ***Hello world apps.***
 
-▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
+▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
 ![Screenshot_1](https://user-images.githubusercontent.com/1867768/164581897-d8b3750c-90e5-49b2-9ea5-35bd7f3d9f98.png)
 
 [Except ones compiled from full source ;)]
