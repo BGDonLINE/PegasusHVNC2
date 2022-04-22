@@ -1,5 +1,4 @@
 # PegasusHVNC2
-![GitHub Light](https://github.com/github-light.png#gh-dark-mode-only)
 I would kindly ask you ***not to bother me*** with questions like it won't compile help
 or if you get that obviuos error like damn resource is missing heeeeelp - simply ***I don't care(especially for statements I can't wait, I want and similar. Feel free to purchase garbage mentioned above or reverse yourself).***
 ***Im not*** posting this so kids could play hackers, ***nor do I support reversed projects.***
