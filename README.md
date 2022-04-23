@@ -1,4 +1,15 @@
 # PegasusHVNC2
+
+![bahahahahaha](https://user-images.githubusercontent.com/1867768/164896945-cb1327fb-ae23-4dcd-b561-d065b302e98a.png)
+
+hahahahhahahahaahhahaahahahahahhaahahhahahaah
+
+Who is selling what actually?? Dude it's FREE here and always will be now do some gipsy magic and puff off ;)
+Damn dude how low you can go?
+
+
+
+
 ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
 
 I would kindly ask you ***not to bother me*** with questions like it won't compile help
